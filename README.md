@@ -1,6 +1,5 @@
 ## Sajidur Rahman 🇧🇩
 
-### Little info 🧪
 - 🔥 Currently working with Golang, TypeScript and ReactJS.
 - 😍 Interested in software architecture, testing, automation, performance and security.
 - 🐸 Looking to collaborate on Golang, TypeScript and PHP projects.
