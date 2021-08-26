@@ -1,8 +1,7 @@
 ## Sajidur Rahman 🇧🇩
-[![Twitter Badge](https://img.shields.io/twitter/url?label=sajibsrs&style=social&url=https%3A%2F%2Ftwitter.com%2Fsajibsrs)](https://twitter.com/sajibsrs) 
 
-### Little more info 🧪
-- 🔥 I’m currently working with Golang and TypeScript.
+### Little info 🧪
+- 🔥 I’m currently working with Golang, TypeScript and ReactJS.
 - 💕 Love Books, Electronics, Programming, Painting
 - 🐸 I’m looking to collaborate on Golang, TypeScript and PHP projects.
 - 💭 Ask me about: Anything about I love.
