@@ -4,5 +4,5 @@
 - 😍 Interested in software architecture, testing, automation, performance and security.
 - 🐸 Looking to collaborate on Golang, TypeScript and PHP projects.
 - 💕 Love Programming, Music, Books, Technology, Electronics, Painting.
-- 💭 Ask me about: Anything about I love.
+- 💭 Ask me about: Anything that I love.
 - 🌍 How to reach me: sajibsrs@gmail.com
