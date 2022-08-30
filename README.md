@@ -1,5 +1,5 @@
 ## Sajidur Rahman
-- 🔥 Currently working with PHP, Node, TypeScript and React.
+- 🔥 Currently working with PHP, Node, TypeScript, React and Graphics programming.
 - 😍 Interested in software architecture, testing, automation, performance and security.
 - 🐸 Looking to collaborate on Golang, TypeScript and PHP projects.
 - 💕 Love Programming, Music, Books, Technology, Electronics, Painting.
