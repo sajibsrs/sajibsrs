@@ -1,5 +1,5 @@
 ## Sajidur Rahman
-- 🔥 Currently working with JavaScript, TypeScript, Node.js, React, PHP and Laravel.
+- 🔥 Currently working with JavaScript, TypeScript, Node, React, PHP and Laravel.
 - 😍 Interested in software architecture, testing, automation, performance and security.
 - 🐸 Looking to collaborate on Golang, TypeScript, PHP and Ruby.
 - 💕 Love Programming, Music, Books, Technology, Electronics, Painting, Gaming.
