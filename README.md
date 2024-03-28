@@ -1,7 +1,7 @@
 ## Sajidur Rahman
-- 🔥 Currently working with JavaScript, TypeScript, Node, React, PHP.
+- 🔥 Currently working with JavaScript, TypeScript, NodeJS, React, PHP.
 - 😍 Interested in software architecture, testing, automation, performance and security.
-- 🐸 Looking to collaborate on Golang, TypeScript, PHP and Ruby.
+- 🐸 Looking to collaborate on Golang, TypeScript, PHP and NodeJS.
 - 💕 Love Programming, Music, Books, Technology, Electronics, Painting, Gaming.
 - 💭 Ask me about: Anything that I love.
 - Email: sajibsrs@gmail.com
