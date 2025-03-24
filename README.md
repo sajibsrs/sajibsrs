@@ -1,5 +1,4 @@
 ## Sajidur Rahman
-- Crafting [corx](https://github.com/sajibsrs/corx-lang) programming language.
 - Currently working with C, JavaScript, TypeScript, NodeJS, React, PHP.
 - Interested in computer and software architecture, testing, automation, performance and security.
 - Looking to collaborate on graphics, game, C and C++ projects.
