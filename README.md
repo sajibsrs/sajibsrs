@@ -1,6 +1,6 @@
 ## Sajidur Rahman
 - Currently working with C, JavaScript, TypeScript, NodeJS, React, PHP.
-- Interested in computer and software architecture, testing, automation, performance and security.
+- Interested in computer in general, software architecture, testing, automation, performance and security.
 - Looking to collaborate on graphics, game, C and C++ projects.
 - Love Programming, Music, Books, Technology, Electronics, Painting, Gaming.
 - Ask me about: Anything that I love.
